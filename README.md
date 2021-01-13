@@ -1,1 +1,3 @@
-# Cocoa Clone Coding (Front-End Study)
+# Cocoa Clone Coding
+
+For Front-End Study
